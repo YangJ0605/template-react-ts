@@ -1,0 +1,3 @@
+export const CHANGE_UESR_NAME = 'CHANGE_UESR_NAME'
+
+export const CHANGE_XXXX_XXXX = 'CHANGE_XXXX_XXXX'

@@ -1,0 +1,2 @@
+ /* normalize.css 是重置css的一个第三方包，通过 yarn add normalize.css 安装 */
+@import '~normalize.css';
